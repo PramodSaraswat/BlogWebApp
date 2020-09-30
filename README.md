@@ -1,2 +1,2 @@
 # BlogWebApp
-Person Blogging Web App
+Personal Blogging Web App
